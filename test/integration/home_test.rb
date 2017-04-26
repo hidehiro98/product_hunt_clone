@@ -9,7 +9,7 @@ class HomeTest < ActionDispatch::IntegrationTest
     # exercise
     visit "/"
 
-    save_and_open_screenshot
+    # save_and_open_screenshot
     # save_and_open_page
     # puts page.html
 
